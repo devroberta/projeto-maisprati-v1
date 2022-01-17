@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LimpaTela
+comment0.text=\r\n\ Classe\ que\ limpa\ a\ tela\ do\ terminal\r\n\ @author\ (Roberta\ de\ Siqueira)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=void\ limpa()
+numComments=2
